@@ -7,7 +7,7 @@
 
 - 🧠 | Currently Learning **Everything**
 
-- 👨‍💻 | Check Out My [**Website**](https://nawrasse.tk/) **If You Want To Know More About Me**
+- 👨‍💻 | Check Out My [**Website**](https://nawrassedahman.tk/) **If You Want To Know More About Me**
 
 - 🌟 | Check Out My [**Projects**](https://github.com/NawrasseDahman?tab=repositories) **If You Want To More About Them**
 
@@ -19,7 +19,7 @@
 
 - ✅ | Random Fact: **I'm Also Available For Hire**
 
-- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Shows**
+- 🎞️ | Fun Fact: **I Can Remember The Released Dates Of Any Movie & Tv Show**
 
 ##
 
@@ -27,7 +27,7 @@
 
 <code><a href="https://www.linkedin.com/in/nawrassedahman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a></code>
 <code><a href="https://open.spotify.com/user/4pevqlgntbtzf7quj0q307245?si=i38Ih3MgQTuyp#yjtO7cH6w&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a></code>
-<code><a href="https://codepen.io/nawrassedahman"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a></code>
+<code><a href="https://codepen.io/nawrassedhm"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a></code>
 <code><a href="https://www.instagram.com/NawrasseDahman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
 
 <code><a href="https://www.facebook.com/nawrassedahman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></code>
