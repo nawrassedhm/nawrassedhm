@@ -67,3 +67,11 @@
 <code>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</code>
 <code>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</code>
 <code>![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)</code>
+
+##
+
+### Most Used Languages:
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawrassedhm&layout=compact&title_color=CC8B69&text_color=CC8B69&icon_color=1D2502&bg_color=493509&langs_count=10&hide_title=true&count_private=true" alt="Nawrasse Top Languages" /></a>
+</p>
