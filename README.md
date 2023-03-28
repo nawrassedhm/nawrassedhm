@@ -17,7 +17,7 @@
 
 - 📧 | How To Reach Me: **nawrassedhm@techie.com**
 
-- ✅ | Random Fact: **I'm Also Available For Hire**
+- ✅ | Random Fact: **I'm Also Available For Hiring**
 
 - 📕 | Fun Fact: **I'm An Author & Short Stories Writer**
 
