@@ -15,7 +15,7 @@
 
 - 🗣️ | Ask Me About **Programming Languages**
 
-- 📧 | How To Reach Me: **nawrassedhm@techie.com**
+- 📧 | How To Reach Me: **nawrassedhm@myself.com**
 
 - ✅ | Random Fact: **I'm Also Available For Hiring**
 
