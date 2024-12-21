@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=CC8B69&size=25&center=true&vCenter=true&lines=Self-Taught+Web+Developer;Self-Taught+Web+Designer;8%2B+Years+Of+Experience">
   
-- 🤖 | Currently Working On [**Everything**](https://github.com/nawrassedhm?tab=repositories)
 
 - 🧠 | Currently Learning **Everything**
 
@@ -26,10 +25,8 @@
 ### Connect With Me:
 
 <code><a href="https://www.linkedin.com/in/nawrassedahman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a></code>
-<code><a href="https://www.instagram.com/nawrassedahman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></code>
-<code><a href="https://www.facebook.com/nawrassedahman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></code>
 <code><a href="https://nawrasse.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=spond&logoColor=white" alt="website" /></a></code>
-<code><a href="mailto:nawrassedhm@myself.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
+<code><a href="mailto:nawrassedhm@techie.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></code>
 
 ##
 
